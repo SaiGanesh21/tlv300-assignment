@@ -1,0 +1,11 @@
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+}
